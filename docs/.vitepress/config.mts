@@ -16,7 +16,8 @@ export default defineConfig({
           { text: 'ホーム', link: '/ja/' },
           { text: 'しらべる・かんがえる', link: '/ja/research/' },
           { text: 'つくる', link: '/ja/create/' },
-          { text: 'はかる・くらべる', link: '/ja/evaluate/' }
+          { text: 'はかる・くらべる', link: '/ja/evaluate/' },
+          { text: 'つたえる', link: '/ja/communicate/' }
         ],
         sidebar: {
           '/ja/': [
