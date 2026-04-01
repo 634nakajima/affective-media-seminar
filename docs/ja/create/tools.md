@@ -3,7 +3,7 @@
 ## デジタルオーディオ基礎
 
 - [オーディオ再生環境](./audio)
-- pure data（Pd）の使い方
+- [pure data（Pd）の使い方](https://www.634nakajima.com/device-exercise-2/ja/lessons/lesson03.html)
 
 ## センサ・アクチュエータ，Arduino
 
