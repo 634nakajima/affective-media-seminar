@@ -89,5 +89,5 @@
 
    **<a href="/affective-media-seminar/research-brainstorm.skill" download>research-brainstorm.skill をダウンロード</a>**
 
-2. Claude.ai のチャット画面にファイルをドラッグ&ドロップしてインストール
+2. [Claude.ai](https://claude.ai/) を開き，左サイドバーの「カスタマイズ」からスキルファイルを追加してインストール
 3. インストール後，Claude.ai に「研究テーマの壁打ちをしたい」「テーマを考えたい」などと話しかけるとスキルが起動します
