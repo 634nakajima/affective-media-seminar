@@ -4,6 +4,7 @@ export default defineConfig({
   base: '/affective-media-seminar/',
   title: '感性情報メディア研究室 ゼミ活動',
   description: '研究活動としての作品制作の流れを理解し，実践する',
+  ignoreDeadLinks: [/\.skill$/],
 
   locales: {
     ja: {
