@@ -14,17 +14,13 @@
 
 ## 作品動画
 
-::: tip
-動画サンプルを参照してください．
-:::
+[動画サンプル](https://drive.google.com/drive/folders/1JOCwCJ23t_w79sRK_MvAU0Au-qX47Y--?usp=sharing)
 
 ---
 
 ## ポスター発表
 
-::: tip
-ポスターサンプルを参照してください．
-:::
+[ポスターサンプル](https://drive.google.com/drive/folders/1nSaC_p-ZPE4VqpXHz5oE5W_qJOEUl590?usp=drive_link)
 
 ---
 

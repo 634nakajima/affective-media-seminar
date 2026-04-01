@@ -3,7 +3,7 @@
 ## 作品制作コンセプト
 
 1. **"Multimodal/Crossmodal Affectivity"**
-   感覚間相互作用による体験の拡張・変容を目指す．
+   感覚間相互作用による体験の拡張・変容を目指す．[参考論文](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1605110/full)
    - 色／音／手触り／におい／味 を 見る／聴く／触る／嗅ぐ／味わう
    - Sonification（触感・行為の可聴化）
 

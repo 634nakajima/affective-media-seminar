@@ -10,6 +10,6 @@
 - キネティックアート
 - デバイスアート
 - HCI（Human Computer Interaction）
-- タンジブルユーザインタフェース
+- [タンジブルユーザインタフェース](https://modin.yuri.at/tangibles/?list=4)
 - サウンドスケープ
 - 電子楽器（DMI）
