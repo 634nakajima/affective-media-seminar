@@ -107,7 +107,10 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    logo: '/favicon.png',
+    logo: {
+      light: '/logo_light.png',
+      dark: '/logo_dark.png'
+    },
     search: {
       provider: 'local'
     },
