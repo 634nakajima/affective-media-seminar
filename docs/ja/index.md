@@ -4,6 +4,13 @@ hero:
   name: 感性情報メディア研究室
   text: "ゼミ活動指針"
   tagline: 研究活動としての作品制作の流れを理解し，実践する
+  image:
+    light:
+      src: /logo_light.png
+      alt: 感性情報メディア研究室 ロゴ
+    dark:
+      src: /logo_dark.png
+      alt: 感性情報メディア研究室 ロゴ
   actions:
     - theme: brand
       text: しらべる・かんがえる
