@@ -66,38 +66,49 @@ export default defineConfig({
       themeConfig: {
         nav: [
           { text: 'Home', link: '/en/' },
-          { text: 'Research', link: '/en/research' },
-          { text: 'Create', link: '/en/create' },
-          { text: 'Evaluate', link: '/en/evaluate' }
+          { text: 'Research & Think', link: '/en/research/' },
+          { text: 'Create', link: '/en/create/' },
+          { text: 'Evaluate & Compare', link: '/en/evaluate/' },
+          { text: 'Communicate', link: '/en/communicate/' }
         ],
         sidebar: {
           '/en/': [
             {
               text: 'Research & Think',
               items: [
-                { text: 'Keywords & Fields', link: '/en/research' }
+                { text: 'Keywords & Fields', link: '/en/research/' },
+                { text: 'Group Work', link: '/en/research/groupwork' },
+                { text: 'Case Studies & Paper Reading', link: '/en/research/survey' }
               ]
             },
             {
               text: 'Create',
               items: [
-                { text: 'Concept & Production', link: '/en/create' }
+                { text: 'Artwork Concepts', link: '/en/create/' },
+                { text: 'Audio Setup', link: '/en/create/audio' },
+                { text: 'Production Tools', link: '/en/create/tools' },
+                { text: 'Graduation Project Schedule', link: '/en/create/schedule' }
               ]
             },
             {
               text: 'Evaluate & Compare',
               items: [
-                { text: 'Evaluation Methods', link: '/en/evaluate' }
+                { text: 'What & How to Measure', link: '/en/evaluate/' },
+                { text: 'Artwork Evaluation', link: '/en/evaluate/artwork' },
+                { text: 'Everyday Evaluation', link: '/en/evaluate/everyday' }
               ]
             },
             {
               text: 'Communicate',
               items: [
-                { text: 'Exhibition & Presentation', link: '/en/communicate' }
+                { text: 'Captions & Exhibition', link: '/en/communicate/' },
+                { text: 'Competitions, Videos & Posters', link: '/en/communicate/presentation' }
               ]
             }
           ]
-        }
+        },
+        outline: { label: 'On this page' },
+        docFooter: { prev: 'Previous', next: 'Next' }
       }
     }
   },
