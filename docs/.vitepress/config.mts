@@ -43,7 +43,8 @@ export default defineConfig({
               items: [
                 { text: 'はかるもの・はかる方法', link: '/ja/evaluate/' },
                 { text: '作品体験の評価', link: '/ja/evaluate/artwork' },
-                { text: '身の回りの評価・比較', link: '/ja/evaluate/everyday' }
+                { text: '身の回りの評価・比較', link: '/ja/evaluate/everyday' },
+                { text: 'リフレクシブ・テーマ分析（RTA）', link: '/ja/evaluate/rta' }
               ]
             },
             {
@@ -95,7 +96,8 @@ export default defineConfig({
               items: [
                 { text: 'What & How to Measure', link: '/en/evaluate/' },
                 { text: 'Artwork Evaluation', link: '/en/evaluate/artwork' },
-                { text: 'Everyday Evaluation', link: '/en/evaluate/everyday' }
+                { text: 'Everyday Evaluation', link: '/en/evaluate/everyday' },
+                { text: 'Reflexive Thematic Analysis (RTA)', link: '/en/evaluate/rta' }
               ]
             },
             {
