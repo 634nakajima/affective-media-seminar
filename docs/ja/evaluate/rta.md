@@ -1,6 +1,6 @@
 # リフレクシブ・テーマ分析（RTA）
 
-自由記述やインタビューなどの **質的データ** から，研究上意味のある **テーマ（Theme）** を見出すための分析手法．英国の心理学者 Virginia Braun と Victoria Clarke が提唱した **Reflexive Thematic Analysis（RTA）** は，研究者の主観性を「排除すべきバイアス」ではなく **「分析の資源（resource）」** として積極的に活かす点に最大の特徴があります．
+自由記述やインタビューなどの **質的データ** から，研究上意味のある **テーマ（Theme）** を見出すための分析手法．Virginia Braun と Victoria Clarke が提唱した **Reflexive Thematic Analysis（RTA）** は，研究者の主観性を「排除すべきバイアス」ではなく **「分析の資源（resource）」** として積極的に活かす点に最大の特徴があります．
 
 ::: info このページで扱うこと
 - RTAの基礎用語と6つのフェーズ

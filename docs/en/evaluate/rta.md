@@ -1,6 +1,6 @@
 # Reflexive Thematic Analysis (RTA)
 
-A method for identifying meaningful **themes** in qualitative data such as open-ended survey responses or interviews. **Reflexive Thematic Analysis (RTA)**, proposed by British psychologists Virginia Braun and Victoria Clarke, is distinctive in that it actively treats the researcher's subjectivity not as a bias to be eliminated, but as a **resource** for analysis.
+A method for identifying meaningful **themes** in qualitative data such as open-ended survey responses or interviews. **Reflexive Thematic Analysis (RTA)**, proposed by Virginia Braun and Victoria Clarke, is distinctive in that it actively treats the researcher's subjectivity not as a bias to be eliminated, but as a **resource** for analysis.
 
 ::: info What this page covers
 - Basic terminology and the six phases of RTA
