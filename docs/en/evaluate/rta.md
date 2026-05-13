@@ -116,7 +116,7 @@ Download the Excel file below to use for the exercise. The worksheet contains fo
 - **Theme organization sheet** — For grouping codes and proposing provisional themes
 - **Source data (reference)** — Original list of open-ended responses
 
-<a href="/affective-media-seminar/materials/rta/RTA演習用ワークシート.xlsx" download>📥 Download the RTA exercise worksheet (.xlsx)</a>
+<a href="/affective-media-seminar/materials/rta/RTA演習用ワークシート.xlsx" download>Download the RTA exercise worksheet (.xlsx)</a>
 
 ::: info Note
 The worksheet itself is in Japanese. Use it as a template structure; you can translate the column headers as needed.
@@ -133,10 +133,6 @@ The worksheet itself is in Japanese. Use it as a template structure; you can tra
 | 0:55–1:10 | Phase 4: Reviewing and naming themes | Organize and name themes |
 | 1:10–1:25 | Phase 5: Discussion of reflexivity | Discuss why you attended to certain themes; share positionality |
 | 1:25–1:30 | Wrap-up | Instructor comments and reflection |
-
-::: tip Can be split across two sessions
-Depending on seminar size and prior experience, Phase 2 can be assigned as homework and Phases 3–5 conducted the following week.
-:::
 
 ### Phase details
 
@@ -195,17 +191,7 @@ Depending on seminar size and prior experience, Phase 2 can be assigned as homew
 3. Imagine: "If someone from a completely different field analyzed this, what themes might emerge?"
 4. Confirm that, in RTA, **this kind of self-awareness about positionality itself supports analytic quality**.
 
-### Instructor's theme reconstruction (final discussion material)
-
-The original source data had six concepts (keywords) that the instructor (Take) intuitively extracted at the time, without consciously applying thematic analysis methodology. Most of those remained at the level of **topic summaries** and did not reach what RTA would call "themes that confer meaning on a phenomenon."
-
-Below is **a reconstructed example of four themes** based on those six intuitive keywords, this time following the RTA approach.
-
-::: warning Not "the right answer"
-The reconstruction is not a single correct answer — it is **one example of reconstruction**, used as material against which to compare the students' themes.
-:::
-
-#### Reconstructed themes (example)
+#### Extracted themes (example)
 
 **〈Multisensory healing through light, sound, and touch〉**
 
@@ -233,40 +219,25 @@ In reconstructing, the original keyword "appearance" was not set up as an indepe
 
 #### Discussion prompts
 
-- Where do the instructor's reconstructed example and the students' themes **overlap**?
-- What viewpoints appear in the students' themes that do not appear in the instructor's example? And vice versa?
-- Are there points the instructor — holding a maker's perspective — may have overlooked?
+- Where do the extracted themes and the students' themes **overlap**?
+- What viewpoints appear in the students' themes that do not appear in the extracted themes? And vice versa?
+- Are there points that, **from a maker's perspective**, may have been overlooked?
 - For responses that read negatively (such as operational frictions), how should the decision to include them in a theme or treat them separately change depending on the research purpose?
 - If the research purpose were "to elucidate the affective value of haptic interfaces," how should the structure of themes change?
 
-### Facilitation tips
+### Discussion tips
 
-::: tip Emphasize "there is no single right answer"
-In RTA, themes are constructed; there is no single correct classification. Tell students this explicitly at the start so they don't fall into "guess-the-right-answer" mode.
+::: tip Keep in mind that "there is no right answer"
+In RTA, themes are constructed; there is no single correct classification.
 :::
 
-::: tip Don't let students code too quickly
+::: tip Don't code too quickly
 Spending enough time with the data in Phase 1 determines the quality of later analysis. Rushing into classification leads to shallow pattern recognition.
-:::
-
-::: tip Don't present the instructor's classification as "the answer"
-The comparison is only material for seeing differences in viewpoint. If the instructor's classification is taken as the finished form, the point of reflexivity is lost.
 :::
 
 ::: tip Value negative reactions too
 Negative remarks such as "hard to press" or "weak vibration" are important data that constitute the work experience. Collecting only praise doesn't make analysis.
 :::
-
-::: tip Address how to handle missing data
-The fact that many respondents left Q1 and Q2 blank is an opportunity to have students think about how to treat the data characteristic "not everyone answered everything."
-:::
-
-### Preparation needed
-
-- Worksheet (download above; on PC or printed)
-- Sticky notes (multiple colors help with classification work)
-- Large paper or whiteboard (for grouping work)
-- Markers and pens
 
 ---
 
