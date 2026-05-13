@@ -83,7 +83,7 @@ Other methods that build concepts from data — Grounded Theory Approach (GTA), 
 
 ### Purpose
 
-Using survey data from experiencers of the sound art work *Mazu*, students experience the full RTA process firsthand. By assigning codes, formulating themes, and discussing them with each other, the exercise aims to convey three things experientially:
+Using survey data from experiencers of the sound art work [*Mazu*](https://youtu.be/U345iavhEII?si=wwdpB66qe0DxDG-0), students experience the full RTA process firsthand. By assigning codes, formulating themes, and discussing them with each other, the exercise aims to convey three things experientially:
 
 1. Coding is an **interpretive act**, not a mechanical classification.
 2. Themes do not "naturally emerge from the data" — they are **constructed by the researcher**.
