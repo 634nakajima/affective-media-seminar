@@ -240,3 +240,4 @@ Negative remarks such as "hard to press" or "weak vibration" are important data 
 - Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. *Qualitative Research in Psychology*, 3(2), 77–101.
 - Braun, V., & Clarke, V. (2022). *Thematic Analysis: A Practical Guide*. SAGE Publications.
 - Braun, V., & Clarke, V. (2019). Reflecting on reflexive thematic analysis. *Qualitative Research in Sport, Exercise and Health*, 11(4), 589–597.
+- Oka, M., Ishikawa, J., Kamihoshi, H., Matsumoto, M., Takahashi, S., & Ito, M. (2022). Overview and analytical process of thematic analysis, focusing on reflexive thematic analysis by Virginia Braun and Victoria Clarke (in Japanese). *Journal of Japanese Society of Nursing Research*, 45(2), 145–158. <https://doi.org/10.15065/jjsnr.20211222158>

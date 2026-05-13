@@ -236,3 +236,4 @@ RTAではテーマは構築されるものであり，唯一の正しい分類�
 - Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. *Qualitative Research in Psychology*, 3(2), 77–101.
 - Braun, V., & Clarke, V. (2022). *Thematic Analysis: A Practical Guide*. SAGE Publications.
 - Braun, V., & Clarke, V. (2019). Reflecting on reflexive thematic analysis. *Qualitative Research in Sport, Exercise and Health*, 11(4), 589–597.
+- 岡美智代, 石川純子, 上星浩子, 松本光寛, 高橋さつき, 伊藤美鈴 (2022). Virginia Braun and Victoria Clarkeによる再帰的テーマティック分析を中心としたテーマティック分析の概要と分析プロセス. *日本看護研究学会雑誌*, 45(2), 145–158. <https://doi.org/10.15065/jjsnr.20211222158>
