@@ -4,7 +4,7 @@ A method for identifying meaningful **themes** in qualitative data such as open-
 
 ::: info What this page covers
 - Basic terminology and the six phases of RTA
-- A seminar exercise plan (an RTA experience using survey data from the sound art work *Mazu*)
+- A seminar exercise plan (an RTA experience using survey data from the sound art work *Marine*)
 - Downloadable exercise worksheet
 :::
 
@@ -79,11 +79,11 @@ Other methods that build concepts from data — Grounded Theory Approach (GTA), 
 
 ---
 
-## Seminar exercise: an RTA experience using the *Mazu* survey
+## Seminar exercise: an RTA experience using the *Marine* survey
 
 ### Purpose
 
-Using survey data from experiencers of the sound art work [*Mazu*](https://youtu.be/U345iavhEII?si=wwdpB66qe0DxDG-0), students experience the full RTA process firsthand. By assigning codes, formulating themes, and discussing them with each other, the exercise aims to convey three things experientially:
+Using survey data from experiencers of the sound art work [*Marine*](https://youtu.be/U345iavhEII?si=wwdpB66qe0DxDG-0), students experience the full RTA process firsthand. By assigning codes, formulating themes, and discussing them with each other, the exercise aims to convey three things experientially:
 
 1. Coding is an **interpretive act**, not a mechanical classification.
 2. Themes do not "naturally emerge from the data" — they are **constructed by the researcher**.
@@ -91,7 +91,7 @@ Using survey data from experiencers of the sound art work [*Mazu*](https://youtu
 
 ### Materials
 
-#### About the work *Mazu*
+#### About the work *Marine*
 
 When the experiencer touches the dome-shaped interface, ocean-related sound (waves, dolphin calls, bubbles) and vibration are emitted. Multiple domes of different stiffness are provided, and the experiencer explores the relationship between sound and touch through how they touch and press the surfaces.
 
