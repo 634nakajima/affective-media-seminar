@@ -211,12 +211,6 @@ Responses such as "felt like being underwater," "the sand sounds made me feel th
 
 The primal, **instinctive reaction** to the very structure in which touching an elastic material immediately returns vibration and sound. Implies the appeal of "touch → respond" responsiveness that operates without going through conceptual interpretation.
 
-::: details On the reconstruction process
-In reconstructing, the original keyword "appearance" was not set up as an independent theme; instead it was distributed into "multisensory healing" and "immersion in touching the living." Initially, "otherness made visible by gap between expectation and response" was set up as a separate theme, but on reconsideration it was absorbed into "immersion in touching the living." The life-likeness statically evoked by material texture and the otherness dynamically raised by response gaps can both be read as different sides of the same phenomenon: "the device appears as other."
-
-**Merging and splitting themes is an essential part of RTA, and this kind of rewriting is itself a manifestation of reflexive analytic practice.**
-:::
-
 #### Discussion prompts
 
 - Where do the extracted themes and the students' themes **overlap**?
